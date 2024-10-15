@@ -6,3 +6,5 @@ Jenis Kelamin: Laki-Laki
 Mafa: Nasi Padang
 Mifa: Es teh
 status: Trainee 
+Cita-cita: Dokter
+Asal Kampus: Telkom University, Bandung
